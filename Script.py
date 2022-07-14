@@ -22,8 +22,8 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This is a  <a href=https://t.me//ASTRA_FED>ASTRA</a> clone Project
-- All Creditz ❣️ <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a> ❣️ UYIR 🔥🔥
-- original source code - <a href=https://github.com/Aadhi000/Ajax-Extra-Features>Ajax-Extra-Features</a> 
+- All Creditz ❣️ <a href=https://t.me/Asgardian_guy>𝙰STRA</a> ❣️ UYIR 🔥🔥
+- Complaints - <a DM</a> 
 
 - YOUTUBE 👉 :<a href=https://youtube.com/channel/UCVUmsW458b-hDBmKB3EOk1g>ASTRA FED</a>
 
