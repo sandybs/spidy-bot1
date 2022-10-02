@@ -13,16 +13,16 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/dhe_poyi_dha_vannu>ROGUE </a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Asgardian_guy>ASTRA</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/dhe_poyi_dha_vannu>ʀᴏɢᴜᴇ</a>
+✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Oriksonic>ʀᴏɢɪꜱᴍ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This is a  <a href=https://t.me//ASTRA_FED>ASTRA</a> clone Project
-- All Creditz ❣️ <a href=https://t.me/Asgardian_guy>𝙰STRA</a> ❣️ UYIR 🔥🔥
+- This is a  <a href=https://t.me//botupdatesastra>ᴀꜱᴛʀᴀ</a> clone Project
+- All Creditz ❣️ <a href=https://t.me/Asgardian_guy>ᴀꜱɢᴀʀᴅɪᴀɴ</a>
 - Complaints - <a DM</a> 
 
 - YOUTUBE 👉 :<a href=https://youtube.com/channel/UCVUmsW458b-hDBmKB3EOk1g>ASTRA FED</a>
