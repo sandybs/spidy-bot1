@@ -1445,8 +1445,7 @@ async def auto_filter(client, msg, spoll=False):
             #await hmm.edit_text(text=f"⚙️ Fɪʟᴛᴇʀ Fᴏʀ {search} Cʟᴏꜱᴇᴅ 🗑️", disable_notification = True)
         except Exception as e:
             logger.exception(e)
-            fek = await message.reply_photo(photo="https://te.legra.ph/file/586053fe2c6099c29031b.jpg"
-", caption=cap, reply_markup=InlineKeyboardMarkup(btn))
+            fek = await message.reply_photo(photo="https://te.legra.ph/file/586053fe2c6099c29031b.jpg", caption=cap, reply_markup=InlineKeyboardMarkup(btn))
             await asyncio.sleep(IMDB_DELET_TIME)
             #await fek.edit_text(text=f"⚙️ Fɪʟᴛᴇʀ Fᴏʀ {search} Cʟᴏꜱᴇᴅ 🗑️")
     else:
